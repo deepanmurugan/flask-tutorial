@@ -15,4 +15,4 @@ COPY . /app
 
 ENTRYPOINT [ "python3" ]
 
-CMD [ "app/app.py -h 0.0.0.0 -p 5000" ]
+CMD [ "app/app.py" ]
