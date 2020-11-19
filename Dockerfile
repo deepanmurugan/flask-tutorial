@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Bhavani "bhava0895@gmail.com"
+MAINTAINER Bhavani "test@gmail.com"
 
 RUN apt-get update && apt-get install -y python3 python3-dev python3-pip nginx
 
